@@ -1,0 +1,14 @@
+.btn {
+  background: #111;
+  color: #fff;
+  border: 1px solid #00f5d4;
+  transition: 0.3s ease;
+}
+.btn:hover {
+  box-shadow: 0 0 20px #00f5d4, inset 0 0 10px #00f5d4;
+  transform: translateY(-2px);
+}
+
+*{
+  margin: 75px;
+}
